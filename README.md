@@ -1,4 +1,11 @@
 # Rosi Bot
+<h1 align="center"><b>✨⛄ 𝐑⭕𝐒𝐈 ☃️✨</b></h1>
+
+
+<p align="center"><a href="https://t.me/RosiSupport"><img src="https://telegra.ph/file/bb5c64cf6fc7facd37b08.jpg" width="400"></a></p>
+<p align="center">
+  <h4 align="center"><b>A Powerful, Smart And Simple Group Manager <br> ... Written with  Pyrogram and Telethon...</b></h4>  
+
 
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
