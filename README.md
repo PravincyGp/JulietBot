@@ -1,4 +1,4 @@
-# Juliet Bot
+# Rosi Bot
 
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
@@ -18,7 +18,7 @@ Alternatively, [find me on telegram](https://t.me/shuhaibnc)! (Keep all support 
 
 To deploy me on heroku, use below button:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shuhaibnc/JulietBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PravincyGp/JulietBot)
 
 ## Starting the bot.
 
