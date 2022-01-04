@@ -1,5 +1,5 @@
 # Rosi Bot
-<h1 align="center"><b>✨⛄ 𝐑⭕𝐒𝐈 ☃️✨</b></h1>
+<h1 align="center"><b>✨ 𝐑⭕𝐒𝐈༄ ✨</b></h1>
 
 
 <p align="center"><a href="https://t.me/RosiSupport"><img src="https://telegra.ph/file/bb5c64cf6fc7facd37b08.jpg" width="400"></a></p>
